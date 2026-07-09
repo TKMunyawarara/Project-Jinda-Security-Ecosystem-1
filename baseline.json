@@ -1,0 +1,4 @@
+{
+    "authorized_ports": [8000, 22, 80, 443],
+    "authorized_executables": ["python3", "python", "sshd", "systemd"]
+}
