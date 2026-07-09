@@ -11,5 +11,5 @@ Project Jinda is a lightweight Security Operations Center (SOC) application engi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/TKMunyawarara/Project-Jinda-Security-Ecosystem-1.git](https://github.com/TKMunyawarara/Project-Jinda-Security-Ecosystem-1.git)
+   cd Project-Jinda-Security-Ecosystem-1
